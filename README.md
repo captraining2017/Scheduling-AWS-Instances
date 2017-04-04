@@ -1,5 +1,5 @@
 # Scheduling-AWS-Instances
 
-Tool Used: Jenkins
+Tools Used: Jenkins
 AWS cli
 Source code: Shell Script
